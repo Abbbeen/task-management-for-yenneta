@@ -1,0 +1,30 @@
+Since i haven't focus mainly on web projects, i did this project by watching a full video tutorial.
+used languages:
+html
+css
+js
+php
+
+resourse:
+youtube playlist
+
+
+to run the code
+-----------
+first download the pacjage and unzip it 
+second import the database
+open it onto a browser
+
+
+Name: aben
+password: ab112233
+
+
+
+for more information contact me abenezertadesse353@gmail.com
+
+
+
+ABENEZER TADESSE TESFAYE
+
+
